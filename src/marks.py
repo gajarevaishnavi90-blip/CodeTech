@@ -9,3 +9,5 @@ with open("data/students.txt") as f:
         count += 1
 
 print("Average marks:", total / count)
+
+print("Total students:", count)
