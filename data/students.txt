@@ -1,0 +1,3 @@
+Asha,80
+Ravi,65
+Sneha,90
